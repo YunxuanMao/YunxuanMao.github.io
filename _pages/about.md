@@ -49,7 +49,7 @@ Winner of ICRA 2024 Best Paper Award in Robot Vision
 
 **Yunxuan Mao**, Bingqi Shen, Yifei Yang, Kai Wang, Rong Xiong, Yiyi Liao, Yue Wang
 
-[**Arxiv**](https://arxiv.org/pdf/2311.09525)
+[**Arxiv**](https://arxiv.org/abs/2404.18439)
 
 </div>
 </div>

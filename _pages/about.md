@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🧍‍♂️ Biography
+
 I'm currently a Ph.D student at Zhejiang University, supervised by Prof. Yue Wang, Yiyi Liao, and Rong Xiong. Before this, I received my B.Eng degree at Harbin Institute of Technology, Shenzhen.
 
 My research interest includes computer vision and robotics. 
@@ -40,8 +42,8 @@ My research interest includes computer vision and robotics.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2024.05* ICRA Best Vision Paper
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: ICRA Best Vision Paper Award
+- *2018.12*: National Scholarship
 
 
 # 💻 Internships

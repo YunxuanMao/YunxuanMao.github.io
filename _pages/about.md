@@ -37,6 +37,7 @@ Ngel-slam: Neural implicit representation-based global consistent low-latency sl
 [**Arxiv**](https://arxiv.org/pdf/2311.09525) / 
 [**Code**](https://github.com/YunxuanMao/ngel_slam)
 
+Winner of ICRA 2024 Best Paper Award in Robot Vision
 </div>
 </div>
 
@@ -55,7 +56,7 @@ $\nu$-DBA: Neural Implicit Dense Bundle Adjustment Enables Image-Only Driving Sc
 
 
 # 🎖 Honors and Awards
-- *2024.05*: ICRA Best Vision Paper Award
+- *2024.05*: ICRA 2024 Best Paper Award in Robot Vision
 - *2018.12*: National Scholarship
 
 

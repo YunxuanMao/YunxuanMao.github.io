@@ -48,7 +48,7 @@ $\nu$-DBA: Neural Implicit Dense Bundle Adjustment Enables Image-Only Driving Sc
 
 **Yunxuan Mao**, Bingqi Shen, Yifei Yang, Kai Wang, Rong Xiong, Yiyi Liao, Yue Wang
 
-[**Arxiv**](https://arxiv.org/pdf/2311.09525) / 
+[**Arxiv**](https://arxiv.org/pdf/2311.09525)
 
 </div>
 </div>

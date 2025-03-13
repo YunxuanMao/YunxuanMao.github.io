@@ -27,7 +27,7 @@ My research interest includes computer vision and robotics.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/ngel.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Ngel-slam: Neural implicit representation-based global consistent low-latency slam system
@@ -35,12 +35,24 @@ Ngel-slam: Neural implicit representation-based global consistent low-latency sl
 **Yunxuan Mao**, Xuan Yu, Zhuqing Zhang, Kai Wang, Yue Wang, Rong Xiong, Yiyi Liao
 
 [**Arxiv**](https://arxiv.org/pdf/2311.09525) / 
-[**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Code**](https://github.com/YunxuanMao/ngel_slam)
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/nudba.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+$\nu$-DBA: Neural Implicit Dense Bundle Adjustment Enables Image-Only Driving Scene Reconstruction
+
+**Yunxuan Mao**, Bingqi Shen, Yifei Yang, Kai Wang, Rong Xiong, Yiyi Liao, Yue Wang
+
+[**Arxiv**](https://arxiv.org/pdf/2311.09525) / 
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2024.05*: ICRA Best Vision Paper Award

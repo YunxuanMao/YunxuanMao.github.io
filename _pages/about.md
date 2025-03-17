@@ -37,7 +37,7 @@ My research interest includes computer vision and robotics.
 [**Arxiv**](https://arxiv.org/pdf/2311.09525) / 
 [**Code**](https://github.com/YunxuanMao/ngel_slam)
 
-Winner of ICRA 2024 Best Paper Award in Robot Vision
+<span style="color:red">🎉🎉 **Winner of ICRA 2024 Best Paper Award in Robot Vision**.<span style="color:blue">
 </div>
 </div>
 

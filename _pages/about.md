@@ -27,6 +27,19 @@ My research interest includes computer vision and robotics.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/unire.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**UnIRe: Unsupervised Instance Decomposition for Dynamic Urban Scene Reconstruction**
+
+**Yunxuan Mao**, Rong Xiong, Yue Wang, Yiyi Liao
+
+[**Arxiv**](https://arxiv.org/abs/2504.00763) / 
+[**Website**](https://yunxuanmao.github.io/unire_website/)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/ngel.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 

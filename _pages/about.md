@@ -27,7 +27,7 @@ My research interest includes computer vision and robotics.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/2025A2C_xu.gif' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/rynnec.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **RynnEC: Bringing MLLMs into Embodied World**
@@ -39,7 +39,7 @@ My research interest includes computer vision and robotics.
 [**Demo**](https://huggingface.co/spaces/Alibaba-DAMO-Academy/RynnEC) / [**Video**](https://www.youtube.com/watch?v=vsMxbzsmrQc) /
 
 
-
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE 2025</div><img src='images/2025A2C_xu.gif' alt="sym" width="80%"></div></div>
@@ -54,6 +54,7 @@ My research interest includes computer vision and robotics.
 [**Website**](https://xukechun.github.io/papers/A2)
 
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/pi-ba.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,6 +64,7 @@ My research interest includes computer vision and robotics.
 **Yunxuan Mao**, Dongkun Zhang, Lilu Liu, Rong Xiong, Yue Wang
 
 
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/unire.png' alt="sym" width="80%"></div></div>
@@ -76,7 +78,6 @@ My research interest includes computer vision and robotics.
 [**Website**](https://yunxuanmao.github.io/unire_website/)
 
 </div>
-
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/ngel.png' alt="sym" width="80%"></div></div>

@@ -36,7 +36,8 @@ My research interest includes computer vision and robotics.
 
 [**Arxiv**](https://arxiv.org/abs/2508.14160) / 
 [**Code**](https://github.com/alibaba-damo-academy/RynnEC) /
-[**Demo**](https://huggingface.co/spaces/Alibaba-DAMO-Academy/RynnEC) / [**Video**](https://www.youtube.com/watch?v=vsMxbzsmrQc) /
+[**Demo**](https://huggingface.co/spaces/Alibaba-DAMO-Academy/RynnEC) / 
+[**Video**](https://www.youtube.com/watch?v=vsMxbzsmrQc)
 
 
 </div>

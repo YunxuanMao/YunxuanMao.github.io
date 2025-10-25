@@ -32,7 +32,7 @@ My research interest includes computer vision and robotics.
 
 **RynnEC: Bringing MLLMs into Embodied World**
 
-[Ronghao Dang](https://rh-dang.github.io/)\*, [Yuqian Yuan](https://yuqianyuan.github.io/)\*, **Yunxuan Mao***, Kehan Li*, Jiangpin Liu, Zhikai Wang, [Xin Li](https://lixin4ever.github.io/), Fan Wang, [Deli Zhao](https://zhaodeli.github.io/) (*Equal contribution)
+[Ronghao Dang](https://rh-dang.github.io/)\*, [Yuqian Yuan](https://yuqianyuan.github.io/)\*, **Yunxuan Mao**\*, Kehan Li\*, Jiangpin Liu, Zhikai Wang, [Xin Li](https://lixin4ever.github.io/), Fan Wang, [Deli Zhao](https://zhaodeli.github.io/) (*Equal contribution)
 
 [**Arxiv**](https://arxiv.org/abs/2508.14160) / 
 [**Code**](https://github.com/alibaba-damo-academy/RynnEC) /

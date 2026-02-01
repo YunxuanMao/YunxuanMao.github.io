@@ -68,7 +68,7 @@ My research interest includes computer vision and robotics.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/unire.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/unire.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **UnIRe: Unsupervised Instance Decomposition for Dynamic Urban Scene Reconstruction**

@@ -27,6 +27,23 @@ My research interest includes computer vision and robotics.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/rynnbrain.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RynnBrain: Open Embodied Foundation Models**
+
+[Ronghao Dang](https://rh-dang.github.io/)\*, Jiayan Guo\*, Bohan Hou\*, Sicong Leng\*, Kehan Li\*, [Xin Li](https://lixin4ever.github.io/)\*, Jiangping Liu\*, **Yunxuan Mao**\*,  Zhikai Wang\*, [Yuqian Yuan](https://yuqianyuan.github.io/)\*, Minghao Zhu\*, Xiao Lin, Yang Bai, Qian Jiang, Yaxi Zhao, Minghua Zeng, Junlong Gao, Yuming Jiang, Jun Cen, Siteng Huang, Liuyi Wang, Wenqiao Zhang, Chengju Liu, Jianfei Yang, Shijian Lu, [Deli Zhao](https://zhaodeli.github.io/) (*Equal contribution)
+
+[**Arxiv**](https://alibaba-damo-academy.github.io/RynnBrain.github.io/assets/RynnBrain_Report.pdf) / 
+[**Code**](https://github.com/alibaba-damo-academy/RynnBrain) /
+[**Demo**](https://huggingface.co/spaces/Alibaba-DAMO-Academy/RynnBrain) / 
+[**Video**](https://www.youtube.com/watch?v=R37ygvn9Kfs)
+[**Website**](https://alibaba-damo-academy.github.io/RynnBrain.github.io/)
+
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/rynnec.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 

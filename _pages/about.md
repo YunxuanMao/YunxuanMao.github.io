@@ -32,7 +32,7 @@ My research interest includes computer vision and robotics.
 
 **RynnBrain: Open Embodied Foundation Models**
 
-[Ronghao Dang](https://rh-dang.github.io/)\*, Jiayan Guo\*, Bohan Hou\*, Sicong Leng\*, Kehan Li\*, [Xin Li](https://lixin4ever.github.io/)\*, Jiangping Liu\*, **Yunxuan Mao**\*,  Zhikai Wang\*, [Yuqian Yuan](https://yuqianyuan.github.io/)\*, Minghao Zhu\*, Xiao Lin, Yang Bai, Qian Jiang, Yaxi Zhao, Minghua Zeng, Junlong Gao, Yuming Jiang, Jun Cen, Siteng Huang, Liuyi Wang, Wenqiao Zhang, Chengju Liu, Jianfei Yang, Shijian Lu, [Deli Zhao](https://zhaodeli.github.io/) (*Equal contribution)
+[Ronghao Dang](https://rh-dang.github.io/)\*, [Jiayan Guo](https://scholar.google.com/citations?user=M-AFBG4AAAAJ&hl=en)\*, [Bohan Hou](https://hbhalpha.github.io/)\*, [Sicong Leng](https://lengsicong.github.io/)\*, [Kehan Li](https://scholar.google.com/citations?user=DnOwUlIAAAAJ&hl=zh-CN)\*, [Xin Li](https://lixin4ever.github.io/)\*, Jiangping Liu\*, **Yunxuan Mao**\*,  Zhikai Wang\*, [Yuqian Yuan](https://yuqianyuan.github.io/)\*, Minghao Zhu\*, Xiao Lin, Yang Bai, Qian Jiang, Yaxi Zhao, Minghua Zeng, Junlong Gao, Yuming Jiang, Jun Cen, Siteng Huang, Liuyi Wang, Wenqiao Zhang, Chengju Liu, Jianfei Yang, Shijian Lu, [Deli Zhao](https://zhaodeli.github.io/) (*Equal contribution)
 
 [**Arxiv**](https://alibaba-damo-academy.github.io/RynnBrain.github.io/assets/RynnBrain_Report.pdf) / 
 [**Code**](https://github.com/alibaba-damo-academy/RynnBrain) /

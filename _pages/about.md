@@ -57,7 +57,7 @@ My research interest includes computer vision and robotics.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/pi-ba.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2026</div><img src='images/pi-ba.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **$\pi$-BA: Probabilistic Neural Bundle Adjustment with Iterative Cycle Optimization for Driving Scene Reconstruction**
@@ -115,5 +115,5 @@ My research interest includes computer vision and robotics.
 
 
 # 💻 Internships
-- *2025.05 - Now*, [Alibaba Damo Academy](https://damo.alibaba.com/?language=zh), China.
+- *2025.05 - 2026.02*, [Alibaba Damo Academy](https://damo.alibaba.com/?language=zh), China.
 - *2024.05 - 2024.12*, Embodied Intelligence Group, 2012 Lab., [Huawei](https://www.huawei.com/), China.

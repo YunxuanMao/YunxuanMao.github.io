@@ -34,7 +34,7 @@ My research interest includes computer vision and robotics.
 
 [Ronghao Dang](https://rh-dang.github.io/)\*, [Jiayan Guo](https://scholar.google.com/citations?user=M-AFBG4AAAAJ&hl=en)\*, [Bohan Hou](https://hbhalpha.github.io/)\*, [Sicong Leng](https://lengsicong.github.io/)\*, [Kehan Li](https://scholar.google.com/citations?user=DnOwUlIAAAAJ&hl=zh-CN)\*, [Xin Li](https://lixin4ever.github.io/)\*, Jiangping Liu\*, **Yunxuan Mao**\*,  [Zhikai Wang](https://cloudcatcher888.github.io/)\*, [Yuqian Yuan](https://yuqianyuan.github.io/)\*, Minghao Zhu\*, Xiao Lin, Yang Bai, Qian Jiang, Yaxi Zhao, Minghua Zeng, Junlong Gao, Yuming Jiang, Jun Cen, Siteng Huang, Liuyi Wang, Wenqiao Zhang, Chengju Liu, Jianfei Yang, Shijian Lu, [Deli Zhao](https://zhaodeli.github.io/) (*Equal contribution)
 
-[**Arxiv**](https://alibaba-damo-academy.github.io/RynnBrain.github.io/assets/RynnBrain_Report.pdf) / 
+[**Arxiv**](https://arxiv.org/abs/2602.14979v1) / 
 [**Code**](https://github.com/alibaba-damo-academy/RynnBrain) /
 [**Demo**](https://huggingface.co/spaces/Alibaba-DAMO-Academy/RynnBrain) / 
 [**Video**](https://www.youtube.com/watch?v=R37ygvn9Kfs) /

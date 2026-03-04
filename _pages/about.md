@@ -81,6 +81,7 @@ My research interest includes computer vision and robotics.
 
 **Yunxuan Mao**, Dongkun Zhang, Lilu Liu, Rong Xiong, Yue Wang
 
+[**Arxiv**](https://ieeexplore.ieee.org/document/11417740) / 
 
 </div>
 </div>

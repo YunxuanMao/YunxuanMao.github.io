@@ -93,9 +93,9 @@ My research interest includes computer vision and robotics.
 
 **Yunxuan Mao**, Rong Xiong, Yue Wang, Yiyi Liao
 
-[**Arxiv**](https://arxiv.org/abs/2504.00763) / 
-[**Website**](https://yunxuanmao.github.io/unire_website/) /
-[**Code**](https://github.com/YunxuanMao/UnIRe)
+[**Arxiv**](https://arxiv.org/abs/2504.00763) /
+[**Code**](https://github.com/YunxuanMao/UnIRe) / 
+[**Website**](https://yunxuanmao.github.io/unire_website/)
 
 </div>
 </div>

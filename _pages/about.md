@@ -27,6 +27,22 @@ My research interest includes computer vision and robotics.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/2026DM_yang.gif' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Direction Matters: Learning Force Direction Enables Sim-to-Real Contact-Rich Manipulation**
+
+[Yifei Yang](https://yifei-y.github.io/), Anzhe Chen, Zhenjie Zhu, [Kechun Xu](https://xukechun.github.io/), **Yunxuan Mao**, Yufei Wei, Lu Chen, Rong Xiong, Yue Wang
+
+[**Arxiv**](https://arxiv.org/abs/2602.14174) / 
+[**Video**](https://www.bilibili.com/video/BV1ShZkB5EHj) /
+[**Website**](https://yifei-y.github.io/project-pages/DirectionMatters/)
+
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/rynnbrain.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 

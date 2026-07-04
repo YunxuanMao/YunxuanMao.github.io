@@ -19,9 +19,10 @@ redirect_from:
 
 # 🧍‍♂️ Biography
 
-I'm currently a Ph.D student at Zhejiang University, supervised by Prof. [Yue Wang](https://ywang-zju.github.io/), [Yiyi Liao](https://yiyiliao.github.io/), and [Rong Xiong](https://person.zju.edu.cn/en/rongxiong). Before this, I received my B.Eng degree at Harbin Institute of Technology, Shenzhen.
+I'm currently a Researcher at [Tencent Robotics X](https://tairos.tencent.com/), focusing on embodied ai and robotics.
 
-My research interest includes computer vision and robotics. 
+I received my Ph.D degree from Zhejiang University, supervised by Prof. [Yue Wang](https://ywang-zju.github.io/), [Yiyi Liao](https://yiyiliao.github.io/), and [Rong Xiong](https://person.zju.edu.cn/en/rongxiong). In my Ph.D. study, I also spent wonderful internship time at [DAMO Academy](https://damo.alibaba.com/?language=zh), Alibaba Group. Before that, I received my B.Eng degree at Harbin Institute of Technology, Shenzhen.
+
 
 
 

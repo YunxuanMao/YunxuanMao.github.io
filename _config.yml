@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yunxuan Mao"
-description              : "Researcher focusing on Robotics and Embodied AI."
+description              : "Senior Researcher focusing on Robotics and Embodied AI."
 repository               : "YunxuanMao/yunxuanmao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yunxuan Mao"
   avatar           : "images/IMG_0975.JPG"
-  bio              : "Robotics X (Tencent)"
+  bio              : "Senior Researcher at Robotics X (Tencent)"
   location         : "Shenzhen, Guangdong, China"
   employer         :
   pubmed           : 

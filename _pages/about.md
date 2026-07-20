@@ -19,7 +19,7 @@ redirect_from:
 
 # 🧍‍♂️ Biography
 
-I'm currently a Researcher at [Tencent Robotics X](https://tairos.tencent.com/), focusing on Robotics and Embodied AI.
+I'm currently a Senior Researcher at [Tencent Robotics X](https://tairos.tencent.com/), focusing on Robotics and Embodied AI.
 
 I received my Ph.D degree from Zhejiang University, supervised by Prof. [Yue Wang](https://ywang-zju.github.io/), [Yiyi Liao](https://yiyiliao.github.io/), and [Rong Xiong](https://person.zju.edu.cn/en/rongxiong). In my Ph.D. study, I also spent wonderful internship time at [DAMO Academy](https://damo.alibaba.com/?language=zh), Alibaba Group. Before that, I received my B.Eng degree at Harbin Institute of Technology, Shenzhen.
 
@@ -27,6 +27,22 @@ I received my Ph.D degree from Zhejiang University, supervised by Prof. [Yue Wan
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/rxbrain.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RxBrain: Embodied Cognition Foundation Model with Joint Language–Visual Reasoning and Imagination**
+
+Tecent Robotics X x Futian Lab x Tencent Hy Team(Core Contributor)
+
+[**Arxiv**](https://arxiv.org/abs/2607.14187) / 
+[**Code**](https://github.com/Tencent-Hunyuan/Hy-Embodied-RxBrain-1.0) /
+[**Demo**](https://huggingface.co/spaces/hugging-apps/rxbrain-embodied-cognition) / 
+[**Website**](https://tairos.tencent.com/openSourceModels/hy-embodied-rxbrain-1.0)
+
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/2026DM_yang.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">

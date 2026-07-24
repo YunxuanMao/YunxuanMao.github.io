@@ -24,6 +24,20 @@ I'm currently a Senior Researcher at [Tencent Robotics X](https://tairos.tencent
 I received my Ph.D degree from Zhejiang University, supervised by Prof. [Yue Wang](https://ywang-zju.github.io/), [Yiyi Liao](https://yiyiliao.github.io/), and [Rong Xiong](https://person.zju.edu.cn/en/rongxiong). In my Ph.D. study, I also spent wonderful internship time at [DAMO Academy](https://damo.alibaba.com/?language=zh), Alibaba Group. Before that, I received my B.Eng degree at Harbin Institute of Technology, Shenzhen.
 
 
+<span class='anchor' id='news'></span>
+
+# 🔥 News
+
+<div style="max-height: 180px; overflow-y: auto; padding: 4px 12px;  border-radius: 6px; background: transparent;" markdown="1">
+
+- *2026.07*: 🎉 **RxBrain**, an embodied cognition foundation model with joint language–visual reasoning and imagination, is released! [[Website]](https://tairos.tencent.com/openSourceModels/hy-embodied-rxbrain-1.0)
+- *2026.02*: 🎉 **RynnBrain** released with code, demo and models. [[RynnBrain]](https://github.com/alibaba-damo-academy/RynnBrain) 
+- *2026.01*: 🎉 **UnIRe** is accepted to **ICRA 2026**.
+- *2026.01*: 🎉 **$\pi$-BA** is accepted to **RAL 2026**.
+- *2025.08*: 🚀 **RynnEC**: Bringing MLLMs into Embodied World is released. [[RynnEC]](https://github.com/alibaba-damo-academy/RynnEC).
+- *2024.05*: 🏆 **Ngel-SLAM** wins the **ICRA 2024 Best Paper Award in Robot Vision**.
+
+</div>
 
 
 # 📝 Publications 
